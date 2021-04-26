@@ -9,6 +9,7 @@
 |Nom|Prénom|login|email|
 |--|--|--|--|
 | Taoualit | Madjid | tm177375 | madjid.taoualit@etu.univ-lehavre.fr |
+| Muzaneza | Déborah | tm177375 | madjid.taoualit@etu.univ-lehavre.fr |
 
 ## Travail à réaliser
 
